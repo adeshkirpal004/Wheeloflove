@@ -19,7 +19,7 @@ const febHolidays = [
     "There's no one better than you❤️",
     "You're the best baby!!",
     "Or should I say, mo gro coco d'amour que j'adore a la folie XD",
-    "Wow!! Time flies, we've already been together for a month",
+    "Wow!! Time flies, we've already been together for almost a year",
     "There's some hardships,",
     "but we overcame most of them",
     "and it made me realised how important you are in my life❤️",
@@ -27,7 +27,7 @@ const febHolidays = [
     "To l'amour",
     "ek mo l'amour",
     "fr 2 liv pomme d'amour🤣❤️",
-    "But anyways, Happy 1 month my sweet little girlfriend(wife🤭)",
+    "But anyways, Happy 1 year my sweet little girlfriend(wife🤭)",
     "You're the love of my life,",
     "I Love You So much❤️"
   ];
